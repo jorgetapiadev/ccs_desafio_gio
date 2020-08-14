@@ -1,0 +1,37 @@
+//logo
+
+.logo{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    width: auto;
+    height: auto;
+    position: static !important;
+
+    
+}
+
+.logo_gigeo {
+
+color:$logocolor !important;
+font-family:$logofontfamily !important;
+font-size:$logofontsize !important;
+vertical-align: sub;
+}
+.logo_art{
+vertical-align: super;
+font-size: small;
+font-weight: 100;
+font-size: 10px;
+}
+
+.logo_pie{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: center!important;
+    width: auto;
+    height: auto;
+    position: static !important;
+    justify-content: center;
+    
+}

@@ -1,0 +1,26 @@
+//@ imports
+//Vendors 
+@import './vendors/bootstrap-4.5.0/bootstrap.scss';
+@import './vendors/fontawesome-free-5.13.1/scss/fontawesome.scss';
+
+//Abstracts
+@import './abstracts/mixins';
+@import './abstracts/variables';
+
+//Base
+@import './base/typography';
+
+
+//Layout 
+@import './layout/navigation';
+@import './layout/hero';
+@import './layout/grid';
+@import './layout/profile';
+@import './layout/footer';
+
+//Components
+@import './components/logo';
+//Pages
+
+
+//Themes
